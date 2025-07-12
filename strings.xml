@@ -1,0 +1,27 @@
+strings.xml
+<resources>
+    <string name="app_name">shop</string>
+    <string name="coffee_products">Coffee Products</string>
+    <string name="view_cart">View Cart</string>
+    android:text="@string/view_cart"
+
+    <string name="product_name_placeholder">Product Name</string>
+    <string name="price_placeholder">₹0</string>
+    <string name="quantity_placeholder">Qty: 1</string>
+
+
+    <string name="product_name">Americano</string>
+    <string name="product_price">₹359</string>
+    <string name="add_to_cart">Add</string>
+    <string name="product_image">Product Image</string>
+
+    <string name="proceed_to_payment">Proceed to Payment</string>
+    <string name="cart_items_list">List of items in your cart</string>
+
+
+    <string name="product_quantity">Qty: 1</string>
+
+
+
+
+</resources>
